@@ -104,7 +104,7 @@ This project involved analyzing e-commerce sales data from a fiscal year to:
     - To estimate the new revenue based on industry benchmarks, we assume an overall increase of 25-30%.
 
   **Formula:**
-    ```plaintext
+    plaintext
        New Revenue = 2019 Revenue × (1.25 to 1.30)
 
        New Revenue = 684,064.70 × 1.25 = 855,080.88 TO New Revenue = 684,064.70 × 1.30 = 889,283.11
