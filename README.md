@@ -130,10 +130,12 @@ This project involved analyzing e-commerce sales data from a fiscal year to:
       Total Costs = 684,064.70 × (1 - 0.30)
             = 684,064.70 × 0.70
             = 478,845.29 dollars
+            
+   **Applying Cost Reduction:** 
+   
+    New Costs = Total Costs × (0.97 to 0.98)
 
-   New Costs = Total Costs × (0.97 to 0.98)
-
-   New Costs = 478,845.29 × 0.97 to 478,845.29 × 0.98
+    New Costs = 478,845.29 × 0.97 to 478,845.29 × 0.98
           = 464,479.94 to 469,268.39 dollars
 
 
