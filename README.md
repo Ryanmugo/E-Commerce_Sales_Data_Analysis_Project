@@ -109,4 +109,26 @@ This project involved analyzing e-commerce sales data from a fiscal year to:
 
        New Revenue = 684,064.70 × 1.25 = 855,080.88 TO New Revenue = 684,064.70 × 1.30 = 889,283.11
 
-    ```
+
+
+ ### 2. Cost Reduction Calculation
+
+     - ### Calculating Total Costs
+
+   **Given:**
+
+     - 2019 Revenue: $684,064.70
+     - Assumed Profit Margin: 30%
+
+   **Calculating Total Costs:**
+
+    - To calculate the total costs based on the revenue and profit margin:
+
+      plaintext
+       Total Costs = Revenue × (1 - Profit Margin)
+
+      Total Costs = 684,064.70 × (1 - 0.30)
+            = 684,064.70 × 0.70
+            = 478,845.29 dollars
+
+
