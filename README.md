@@ -97,3 +97,16 @@ This project involved analyzing e-commerce sales data from a fiscal year to:
    - Increase Average Order Value with Bundling: Utilize product bundling to increase the average order value by up to 20%. Create bundles that combine top-performing products with complementary items to enhance customer value. Monitor changes in average order value and continuously refine bundling strategies based on performance data.
 
 
+## Quantifying Potential Impact:
+
+ ### 1. New Revenue Calculation
+
+    - To estimate the new revenue based on industry benchmarks, we assume an overall increase of 25-30%.
+
+  **Formula:**
+    ```plaintext
+       New Revenue = 2019 Revenue × (1.25 to 1.30)
+
+       New Revenue = 684,064.70 × 1.25 = 855,080.88 TO New Revenue = 684,064.70 × 1.30 = 889,283.11
+
+    ```
