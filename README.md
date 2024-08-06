@@ -107,7 +107,7 @@ This project involved analyzing e-commerce sales data from a fiscal year to:
     plaintext
        New Revenue = 2019 Revenue × (1.25 to 1.30)
 
-       New Revenue = 684,064.70 × 1.25 = 855,080.88 TO New Revenue = 684,064.70 × 1.30 = 889,283.11
+       New Revenue = 684,064.70 × 1.25 = 855,080.88 TO  684,064.70 × 1.30 = 889,283.11
 
 
 
@@ -130,5 +130,10 @@ This project involved analyzing e-commerce sales data from a fiscal year to:
       Total Costs = 684,064.70 × (1 - 0.30)
             = 684,064.70 × 0.70
             = 478,845.29 dollars
+
+   New Costs = Total Costs × (0.97 to 0.98)
+
+   New Costs = 478,845.29 × 0.97 to 478,845.29 × 0.98
+          = 464,479.94 to 469,268.39 dollars
 
 
